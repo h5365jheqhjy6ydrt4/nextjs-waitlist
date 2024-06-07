@@ -9,12 +9,7 @@ export default function Home() {
 
       <section className="w-screen h-dvh grid grid-cols-1 md:grid-cols-2 gap-6">
         <div className="md:h-full h-80 bg-[#FCD0A1] relative overflow-hidden">
-          <Image
-            src=""
-            alt=""
-            fill
-            className="object-contain mt-8 md:mt-24 px-14 object-bottom"
-          />
+          
         </div>
 
         <main className="flex flex-col gap-8 mt-8 justify-center px-6 pb-10">
