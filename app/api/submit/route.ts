@@ -10,7 +10,7 @@ export async function POST(request: Request) {
           "Content-Type": "application/json",
         },
         body: JSON.stringify({
-          api_key: `${process.env.EMAILOCTOPUS_KEY}`,
+          api_key: `${0f609249-15fa-457c-99e9-74fb87015525}`,
           email_address: email,
         }),
       }
